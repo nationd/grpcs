@@ -1,0 +1,10 @@
+Link for grpc http and annotation file to copy
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWV3dHh2cHpQS2JwT0o2NThld3BRb3RHVXNkQXxBQ3Jtc0tuRXVaS0xPemhMelZJdGR4SngybkJidVgzbkZrUFlQa2J2bGlpYmZwdEpEUG5XWnlOZEtrdXpHZ3A0el9PVTVURkV3VVdRMjFqTlJDT0pGNmRvWFJ4QVlDNDNQMjc3SjdHeUxGMTUxU0xxYUNQSEUyMA&q=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Faspnet%2Fcore%2Fgrpc%2Fjson-transcoding%3Fview%3Daspnetcore-7.0%23http-protocol%26WT.mc_id%3DDX-MVP-5004571&v=Rqz9XiSqH3E
+
+Create A folder google
+Create a subfolder api
+Copy files
+
+The above file are used in support of JsonTranscoding
+
+NB: use "Http1AndHttp2" as your protocol in your appsetting endpoints default.
